@@ -53,7 +53,7 @@ function colors.generate(mirage)
       colors.warning = '#FFA759'
     else
       colors.accent = '#E6B450'
-      colors.bg = '#23262b'
+      colors.bg = '#0B0E14'
       colors.fg = '#BFBDB6'
       colors.ui = '#565B66'
 
