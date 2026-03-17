@@ -9,7 +9,7 @@ local colors = {
 --- Generate colors based `vim.o.background` and a variant.
 function colors.generate()
   colors.accent = '#E6B450'
-  colors.bg = '#0B0E14'
+  colors.bg = '#010E27'
   colors.fg = '#BFBDB6'
   colors.ui = '#565B66'
 
