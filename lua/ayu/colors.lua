@@ -27,8 +27,8 @@ function colors.generate()
   colors.error = '#D95757'
   colors.lsp_parameter = '#CB9FF8'
 
-  colors.line = '#EEE51C'
-  colors.panel_bg = '#11141A'
+  colors.line = '#11151C'
+  colors.panel_bg = '#0F131A'
   colors.panel_shadow = '#05070A'
   colors.panel_border = '#000000'
   colors.gutter_normal = '#454B55'
